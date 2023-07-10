@@ -1,0 +1,221 @@
+No,CourseID,Course,Teacher,Class,Credits,Day,Session,Number,MaxNumber
+1,CSC10002,Ky thuat lap trinh,Phan Van Loc,22CTT2,4,MON,S1,0,120
+2,CSC10002,Ky thuat lap trinh,Huynh An Tuan,22CTT3,4,TUE,S2,0,120
+3,CSC10002,Ky thuat lap trinh,Nguyen Tien Dat,22CTT4,4,WED,S3,0,120
+4,CSC10002,Ky thuat lap trinh,Dang Quoc Viet,22CTT5,4,THUR,S4,0,120
+5,BAA00004,Phap luat dai cuong,Phan Van Loc,22CTT2,4,FRI,S1,0,120
+6,BAA00004,Phap luat dai cuong,Huynh An Tuan,22CTT3,4,SAT,S2,0,120
+7,BAA00004,Phap luat dai cuong,Nguyen Tien Dat,22CTT4,4,MON,S3,0,120
+8,BAA00004,Phap luat dai cuong,Dang Quoc Viet,22CTT5,4,TUE,S4,0,120
+9,MTH00004,Vi tich phan 2B,Phan Van Loc,22CTT2,3,WED,S1,0,120
+10,MTH00004,Vi tich phan 2B,Huynh An Tuan,22CTT3,3,THUR,S2,0,120
+11,MTH00004,Vi tich phan 2B,Nguyen Tien Dat,22CTT4,3,FRI,S3,0,120
+12,MTH00004,Vi tich phan 2B,Dang Quoc Viet,22CTT5,3,SAT,S4,0,120
+13,MTH00030,Dai so tuyen tinh,Phan Van Loc,22CTT2,3,MON,S1,0,120
+14,MTH00030,Dai so tuyen tinh,Huynh An Tuan,22CTT3,3,TUE,S2,0,120
+15,MTH00030,Dai so tuyen tinh,Nguyen Tien Dat,22CTT4,3,WED,S3,0,120
+16,MTH00030,Dai so tuyen tinh,Dang Quoc Viet,22CTT5,3,THUR,S4,0,120
+17,MTH00082,TH Vi tich phan 2B,Phan Van Loc,22CTT2,1,FRI,S1,0,120
+18,MTH00082,TH Vi tich phan 2B,Huynh An Tuan,22CTT3,1,SAT,S2,0,120
+19,MTH00082,TH Vi tich phan 2B,Nguyen Tien Dat,22CTT4,1,MON,S3,0,120
+20,MTH00082,TH Vi tich phan 2B,Dang Quoc Viet,22CTT5,1,TUE,S4,0,120
+21,MTH00083,TH Dai so tuyen tinh,Phan Van Loc,22CTT2,1,WED,S1,0,120
+22,MTH00083,TH Dai so tuyen tinh,Huynh An Tuan,22CTT3,1,THUR,S2,0,120
+23,MTH00083,TH Dai so tuyen tinh,Nguyen Tien Dat,22CTT4,1,FRI,S3,0,120
+24,MTH00083,TH Dai so tuyen tinh,Dang Quoc Viet,22CTT5,1,SAT,S4,0,120
+25,CSC10008,Mang may tinh,Phan Van Loc,21CTT2,4,MON,S1,0,120
+26,CSC10008,Mang may tinh,Huynh An Tuan,21CTT3,4,TUE,S2,0,120
+27,CSC10008,Mang may tinh,Nguyen Tien Dat,21CTT4,4,WED,S3,0,120
+28,CSC10008,Mang may tinh,Dang Quoc Viet,21CTT5,4,THUR,S4,0,120
+29,CSC10004,Cau truc du lieu va giai thuat,Phan Van Loc,21CTT2,4,FRI,S1,0,120
+30,CSC10004,Cau truc du lieu va giai thuat,Huynh An Tuan,21CTT3,4,SAT,S2,0,120
+31,CSC10004,Cau truc du lieu va giai thuat,Nguyen Tien Dat,21CTT4,4,MON,S3,0,120
+32,CSC10004,Cau truc du lieu va giai thuat,Dang Quoc Viet,21CTT5,4,TUE,S4,0,120
+33,MTH00050,Toan hoc to hop,Phan Van Loc,21CTT2,4,WED,S1,0,120
+34,MTH00050,Toan hoc to hop,Huynh An Tuan,21CTT3,4,THUR,S2,0,120
+35,MTH00050,Toan hoc to hop,Nguyen Tien Dat,21CTT4,4,FRI,S3,0,120
+36,MTH00050,Toan hoc to hop,Dang Quoc Viet,21CTT5,4,SAT,S4,0,120
+37,MTH00040,Xac xuat thong ke,Phan Van Loc,21CTT2,3,MON,S1,0,120
+38,MTH00040,Xac xuat thong ke,Huynh An Tuan,21CTT3,3,TUE,S2,0,120
+39,MTH00040,Xac xuat thong ke,Nguyen Tien Dat,21CTT4,3,WED,S3,0,120
+40,MTH00040,Xac xuat thong ke,Dang Quoc Viet,21CTT5,3,THUR,S4,0,120
+41,MTH00050,TH Xac xuat thong ke,Phan Van Loc,21CTT2,1,FRI,S1,0,120
+42,MTH00050,TH Xac xuat thong ke,Huynh An Tuan,21CTT3,1,SAT,S2,0,120
+43,MTH00050,TH Xac xuat thong ke,Nguyen Tien Dat,21CTT4,1,MON,S3,0,120
+44,MTH00050,TH Xac xuat thong ke,Dang Quoc Viet,21CTT5,1,TUE,S4,0,120
+45,BAA00102,Kinh te chinh tri Mac-Lenin,Phan Van Loc,20CTT2,2,MON,S1,0,120
+46,BAA00102,Kinh te chinh tri Mac-Lenin,Huynh An Tuan,20CTT3,2,TUE,S2,0,120
+47,BAA00102,Kinh te chinh tri Mac-Lenin,Nguyen Tien Dat,20CTT4,2,WED,S3,0,120
+48,BAA00102,Kinh te chinh tri Mac-Lenin,Dang Quoc Viet,20CTT5,2,THUR,S4,0,120
+49,CSC10007,He dieu hanh,Phan Van Loc,20CTT2,4,FRI,S1,0,120
+50,CSC10007,He dieu hanh,Huynh An Tuan,20CTT3,4,SAT,S2,0,120
+51,CSC10007,He dieu hanh,Nguyen Tien Dat,20CTT4,4,MON,S3,0,120
+52,CSC10007,He dieu hanh,Dang Quoc Viet,20CTT5,4,TUE,S4,0,120
+53,CSC13002,Nhap mon Cong nghe phan mem,Phan Van Loc,20CTT2,4,WED,S1,0,120
+54,CSC13002,Nhap mon Cong nghe phan mem,Huynh An Tuan,20CTT3,4,THUR,S2,0,120
+55,CSC13002,Nhap mon Cong nghe phan mem,Nguyen Tien Dat,20CTT4,4,FRI,S3,0,120
+56,CSC13002,Nhap mon Cong nghe phan mem,Dang Quoc Viet,20CTT5,4,SAT,S4,0,120
+57,CSC11004,Mang may tinh nang cao,Phan Van Loc,20CTT2,4,MON,S1,0,120
+58,CSC11004,Mang may tinh nang cao,Huynh An Tuan,20CTT3,4,TUE,S2,0,120
+59,CSC11004,Mang may tinh nang cao,Nguyen Tien Dat,20CTT4,4,WED,S3,0,120
+60,CSC11004,Mang may tinh nang cao,Dang Quoc Viet,20CTT5,4,THUR,S4,0,120
+61,CSC12002,Co so du lieu nang cao,Phan Van Loc,20CTT2,4,FRI,S1,0,120
+62,CSC12002,Co so du lieu nang cao,Huynh An Tuan,20CTT3,4,SAT,S2,0,120
+63,CSC12002,Co so du lieu nang cao,Nguyen Tien Dat,20CTT4,4,MON,S3,0,120
+64,CSC12002,Co so du lieu nang cao,Dang Quoc Viet,20CTT5,4,TUE,S4,0,120
+65,CSC14004,Khai thac data va ung dung,Phan Van Loc,20CTT2,4,WED,S1,0,120
+66,CSC14004,Khai thac data va ung dung,Huynh An Tuan,20CTT3,4,THUR,S2,0,120
+67,CSC14004,Khai thac data va ung dung,Nguyen Tien Dat,20CTT4,4,FRI,S3,0,120
+68,CSC14004,Khai thac data va ung dung,Dang Quoc Viet,20CTT5,4,SAT,S4,0,120
+69,CSC14119,Nhap mon KH du lieu,Phan Van Loc,20CTT2,4,MON,S1,0,120
+70,CSC14119,Nhap mon KH du lieu,Huynh An Tuan,20CTT3,4,TUE,S2,0,120
+71,CSC14119,Nhap mon KH du lieu,Nguyen Tien Dat,20CTT4,4,WED,S3,0,120
+72,CSC14119,Nhap mon KH du lieu,Dang Quoc Viet,20CTT5,4,THUR,S4,0,120
+73,CSC15005,Nhap mon ma hoa - mat ma,Phan Van Loc,20CTT2,4,FRI,S1,0,120
+74,CSC15005,Nhap mon ma hoa - mat ma,Huynh An Tuan,20CTT3,4,SAT,S2,0,120
+75,CSC15005,Nhap mon ma hoa - mat ma,Nguyen Tien Dat,20CTT4,4,MON,S3,0,120
+76,CSC15005,Nhap mon ma hoa - mat ma,Dang Quoc Viet,20CTT5,4,TUE,S4,0,120
+77,CSC15001,An ninh may tinh,Phan Van Loc,19CTT2,4,MON,S1,0,120
+78,CSC15001,An ninh may tinh,Huynh An Tuan,19CTT3,4,TUE,S2,0,120
+79,CSC15001,An ninh may tinh,Nguyen Tien Dat,19CTT4,4,WED,S3,0,120
+80,CSC15001,An ninh may tinh,Dang Quoc Viet,19CTT5,4,THUR,S1,0,120
+81,CSC11003,Lap trinh mang,Phan Van Loc,19CTT2,4,FRI,S2,0,120
+82,CSC11003,Lap trinh mang,Huynh An Tuan,19CTT3,4,SAT,S3,0,120
+83,CSC11003,Lap trinh mang,Nguyen Tien Dat,19CTT4,4,MON,S1,0,120
+84,CSC11003,Lap trinh mang,Dang Quoc Viet,19CTT5,4,TUE,S2,0,120
+85,CSC13112,Thiet ke giao dien,Phan Van Loc,19CTT2,4,WED,S3,0,120
+86,CSC13112,Thiet ke giao dien,Huynh An Tuan,19CTT3,4,THUR,S1,0,120
+87,CSC13112,Thiet ke giao dien,Nguyen Tien Dat,19CTT4,4,FRI,S2,0,120
+88,CSC13112,Thiet ke giao dien,Dang Quoc Viet,19CTT5,4,SAT,S3,0,120
+89,CSC13106,Kien truc phan mem,Phan Van Loc,19CTT2,4,FRI,S2,0,120
+90,CSC13107,Kien truc phan mem,Huynh An Tuan,19CTT3,4,SAT,S3,0,120
+91,CSC13108,Kien truc phan mem,Nguyen Tien Dat,19CTT4,4,MON,S1,0,120
+92,CSC13109,Kien truc phan mem,Dang Quoc Viet,19CTT5,4,TUE,S2,0,120
+93,CSC10252,Thuc tap tot nghiep,Phan Van Loc,19CTT2,4,MON,S1,0,120
+94,CSC10252,Thuc tap tot nghiep,Huynh An Tuan,19CTT3,4,TUE,S2,0,120
+95,CSC10252,Thuc tap tot nghiep,Nguyen Tien Dat,19CTT4,4,WED,S3,0,120
+96,CSC10252,Thuc tap tot nghiep,Dang Quoc Viet,19CTT5,4,THUR,S1,0,120
+97,CSC12123,Do an phan mem,Phan Van Loc,19CTT2,4,FRI,S2,0,120
+98,CSC12123,Do an phan mem,Huynh An Tuan,19CTT3,4,SAT,S3,0,120
+99,CSC12123,Do an phan mem,Nguyen Tien Dat,19CTT4,4,MON,S1,0,120
+100,CSC12123,Do an phan mem,Dang Quoc Viet,19CTT5,4,TUE,S2,0,120
+101,CSC00003,Tin hoc co so,Phan Van Loc,22HOH2,4,MON,S1,0,120
+102,CSC00003,Tin hoc co so,Huynh An Tuan,22HOH3,4,TUE,S2,0,120
+103,CSC00003,Tin hoc co so,Nguyen Tien Dat,22HOH4,4,WED,S3,0,120
+104,CHE00001,Hoa dai cuong 1,Dang Quoc Viet,22HOH2,4,THUR,S4,0,120
+105,CHE00001,Hoa dai cuong 2,Phan Van Loc,22HOH3,4,FRI,S1,0,120
+106,CHE00001,Hoa dai cuong 3,Huynh An Tuan,22HOH4,4,SAT,S2,0,120
+107,CHE00002,Hoa dai cuong 2,Nguyen Tien Dat,22HOH2,4,MON,S3,0,120
+108,CHE00002,Hoa dai cuong 3,Dang Quoc Viet,22HOH3,4,TUE,S4,0,120
+109,CHE00002,Hoa dai cuong 4,Phan Van Loc,22HOH4,4,WED,S1,0,120
+110,MTH00001,Vi tich phan 1C,Huynh An Tuan,22HOH2,4,THUR,S2,0,120
+111,MTH00001,Vi tich phan 1C,Nguyen Tien Dat,22HOH3,4,FRI,S3,0,120
+112,MTH00001,Vi tich phan 1C,Dang Quoc Viet,22HOH4,4,SAT,S4,0,120
+113,CHE310004,Hoa luong tu,Phan Van Loc,21HOH2,4,MON,S1,0,120
+114,CHE310004,Hoa luong tu,Huynh An Tuan,21HOH3,4,TUE,S2,0,120
+115,CHE310004,Hoa luong tu,Nguyen Tien Dat,21HOH4,4,MON,S3,0,120
+116,CHE10017,Hoa phan tich 1,Dang Quoc Viet,21HOH2,4,TUE,S4,0,120
+117,CHE10017,Hoa phan tich 1,Phan Van Loc,21HOH3,4,WED,S1,0,120
+118,CHE10017,Hoa phan tich 1,Huynh An Tuan,21HOH4,4,THUR,S2,0,120
+119,CHE10030,Polyme va Hoa keo,Nguyen Tien Dat,21HOH2,4,FRI,S3,0,120
+120,CHE10030,Polyme va Hoa keo,Dang Quoc Viet,21HOH3,4,SAT,S4,0,120
+121,CHE10030,Polyme va Hoa keo,Phan Van Loc,21HOH4,4,MON,S1,0,120
+122,CHE10009,Hoa vo co 1,Huynh An Tuan,21HOH2,4,TUE,S2,0,120
+123,CHE10009,Hoa vo co 1,Nguyen Tien Dat,21HOH3,4,WED,S3,0,120
+124,CHE10009,Hoa vo co 1,Dang Quoc Viet,21HOH4,4,THUR,S4,0,120
+125,CHE10029,Hoa ly 1,Phan Van Loc,20HOH2,4,FRI,S1,0,120
+126,CHE10029,Hoa ly 1,Huynh An Tuan,20HOH3,4,SAT,S2,0,120
+127,CHE10029,Hoa ly 1,Nguyen Tien Dat,20HOH4,4,FRI,S3,0,120
+128,CHE10006,Hoa ly 2,Dang Quoc Viet,20HOH2,4,SAT,S4,0,120
+129,CHE10007,Hoa ly 2,Phan Van Loc,20HOH3,4,MON,S1,0,120
+130,CHE10008,Hoa ly 2,Huynh An Tuan,20HOH4,4,TUE,S2,0,120
+131,CHE10003,Hoa huu co 2,Nguyen Tien Dat,20HOH2,4,MON,S3,0,120
+132,CHE10004,Hoa huu co 2,Dang Quoc Viet,20HOH3,4,TUE,S4,0,120
+133,CHE10005,Hoa huu co 2,Phan Van Loc,20HOH4,4,WED,S1,0,120
+134,CHE10026,Cac PP phan tich vat lieu,Huynh An Tuan,20HOH2,4,THUR,S2,0,120
+135,CHE10026,Cac PP phan tich vat lieu,Nguyen Tien Dat,20HOH3,4,FRI,S3,0,120
+136,CHE10026,Cac PP phan tich vat lieu,Dang Quoc Viet,20HOH4,4,MON,S4,0,120
+137,CHE10014,TH hoa phan tich 2,Phan Van Loc,20HOH2,4,TUE,S1,0,120
+138,CHE10014,TH hoa phan tich 2,Huynh An Tuan,20HOH3,4,WED,S2,0,120
+139,CHE10014,TH hoa phan tich 2,Nguyen Tien Dat,20HOH4,4,THUR,S3,0,120
+140,CHE10195,Khoa luan TN CNH Huu co,Dang Quoc Viet,19HOH2,4,FRI,S4,0,120
+141,CHE10195,Khoa luan TN CNH Huu co,Phan Van Loc,19HOH3,4,SAT,S1,0,120
+142,CHE10195,Khoa luan TN CNH Huu co,Huynh An Tuan,19HOH4,4,MON,S2,0,120
+143,CHE10295,Khoa luan TN CN Hoa ly,Nguyen Tien Dat,19HOH2,4,TUE,S3,0,120
+144,CHE10295,Khoa luan TN CN Hoa ly,Dang Quoc Viet,19HOH3,4,WED,S4,0,120
+145,CHE10295,Khoa luan TN CN Hoa ly,Phan Van Loc,19HOH4,4,THUR,S1,0,120
+146,CHE10495,Khoa luan TN CNH Vo co,Huynh An Tuan,19HOH2,4,FRI,S2,0,120
+147,CHE10495,Khoa luan TN CNH Vo co,Nguyen Tien Dat,19HOH3,4,SAT,S3,0,120
+148,CHE10495,Khoa luan TN CNH Vo co,Dang Quoc Viet,19HOH4,4,MON,S4,0,120
+149,CHE10595,Khoa luan TN CNH Polyme,Phan Van Loc,19HOH2,4,TUE,S1,0,120
+150,CHE10595,Khoa luan TN CNH Polyme,Huynh An Tuan,19HOH3,4,MON,S2,0,120
+151,CHE10595,Khoa luan TN CNH Polyme,Nguyen Tien Dat,19HOH4,4,TUE,S3,0,120
+152,BIO00001,Sinh dai cuong 1,Dang Quoc Viet,22SOH2,4,WED,S4,0,120
+153,BIO00001,Sinh dai cuong 1,Phan Van Loc,22SOH3,4,THUR,S1,0,120
+154,BIO00001,Sinh dai cuong 1,Huynh An Tuan,22SOH4,4,FRI,S2,0,120
+155,BIO00010,Nhap mon sinh hoc,Nguyen Tien Dat,22SOH2,4,SAT,S3,0,120
+156,BIO00010,Nhap mon sinh hoc,Dang Quoc Viet,22SOH3,4,MON,S4,0,120
+157,BIO00010,Nhap mon sinh hoc,Phan Van Loc,22SOH4,4,TUE,S1,0,120
+158,BIO00081,Thuc tap sinh DC1,Huynh An Tuan,22SOH2,4,WED,S2,0,120
+159,BIO00081,Thuc tap sinh DC1,Nguyen Tien Dat,22SOH3,4,THUR,S3,0,120
+160,BIO00081,Thuc tap sinh DC1,Dang Quoc Viet,22SOH4,4,FRI,S4,0,120
+161,BIO10007,Sinh hoa co so,Phan Van Loc,21SOH2,4,SAT,S1,0,120
+162,BIO10007,Sinh hoa co so,Huynh An Tuan,21SOH3,4,FRI,S2,0,120
+163,BIO10007,Sinh hoa co so,Nguyen Tien Dat,21SOH4,4,SAT,S3,0,120
+164,BIO10020,Vi sinh,Dang Quoc Viet,21SOH2,4,MON,S4,0,120
+165,BIO10020,Vi sinh,Phan Van Loc,21SOH3,4,TUE,S1,0,120
+166,BIO10020,Vi sinh,Huynh An Tuan,21SOH4,4,MON,S2,0,120
+167,BIO10020,Sinh hoc phan tu dai cuong,Nguyen Tien Dat,21SOH2,4,TUE,S3,0,120
+168,BIO10020,Sinh hoc phan tu dai cuong,Dang Quoc Viet,21SOH3,4,WED,S4,0,120
+169,BIO10020,Sinh hoc phan tu dai cuong,Phan Van Loc,21SOH4,4,THUR,S1,0,120
+170,BIO10006,Sinh thai hoc,Huynh An Tuan,20SOH2,4,FRI,S2,0,120
+171,BIO10006,Sinh thai hoc,Nguyen Tien Dat,20SOH3,4,MON,S3,0,120
+172,BIO10006,Sinh thai hoc,Dang Quoc Viet,20SOH4,4,TUE,S4,0,120
+173,BIO10008,Sinh ly thuc vat,Phan Van Loc,20SOH2,4,WED,S1,0,120
+174,BIO10008,Sinh ly thuc vat,Huynh An Tuan,20SOH3,4,THUR,S2,0,120
+175,BIO10008,Sinh ly thuc vat,Nguyen Tien Dat,20SOH4,4,FRI,S3,0,120
+176,BIO10009,Sinh ly dong vat,Dang Quoc Viet,20SOH2,4,SAT,S4,0,120
+177,BIO10009,Sinh ly dong vat,Phan Van Loc,20SOH3,4,MON,S1,0,120
+178,BIO10009,Sinh ly dong vat,Huynh An Tuan,20SOH4,4,TUE,S2,0,120
+179,BIO10413,Sinh hoa thuc pham,Nguyen Tien Dat,19SOH2,4,WED,S3,0,120
+180,BIO10413,Sinh hoa thuc pham,Dang Quoc Viet,19SOH3,4,THUR,S4,0,120
+181,BIO10413,Sinh hoa thuc pham,Phan Van Loc,19SOH4,4,FRI,S1,0,120
+182,BIO10403,Sinh hoa chuc nang,Huynh An Tuan,19SOH2,4,SAT,S2,0,120
+183,BIO10403,Sinh hoa chuc nang,Nguyen Tien Dat,19SOH3,4,MON,S3,0,120
+184,BIO10403,Sinh hoa chuc nang,Dang Quoc Viet,19SOH4,4,TUE,S4,0,120
+185,BIO10408,Sinh hoa moi truong,Phan Van Loc,19SOH2,4,MON,S1,0,120
+186,BIO10408,Sinh hoa moi truong,Huynh An Tuan,19SOH3,4,TUE,S2,0,120
+187,BIO10408,Sinh hoa moi truong,Nguyen Tien Dat,19SOH4,4,WED,S3,0,120
+188,PHY00001,Vat ly dai cuong 1,Dang Quoc Viet,22KVL2,4,THUR,S4,0,120
+189,PHY00001,Vat ly dai cuong 1,Phan Van Loc,22KVL3,4,FRI,S1,0,120
+190,PHY00001,Vat ly dai cuong 1,Huynh An Tuan,22KVL4,4,SAT,S2,0,120
+191,MPH0001,GT nghanh VL Y Khoa,Nguyen Tien Dat,22KVL2,4,MON,S3,0,120
+192,MPH0001,GT nghanh VL Y Khoa,Dang Quoc Viet,22KVL3,4,TUE,S4,0,120
+193,MPH0001,GT nghanh VL Y Khoa,Phan Van Loc,22KVL4,4,WED,S1,0,120
+194,PHY00040,Vat ly hien dai,Huynh An Tuan,21KVL2,4,THUR,S2,0,120
+195,PHY00040,Vat ly hien dai,Nguyen Tien Dat,21KVL3,4,FRI,S3,0,120
+196,PHY00040,Vat ly hien dai,Dang Quoc Viet,21KVL4,4,SAT,S4,0,120
+197,PHY10002,TH Vat ly co so,Phan Van Loc,21KVL2,4,FRI,S1,0,120
+198,PHY10002,TH Vat ly co so,Huynh An Tuan,21KVL3,4,SAT,S2,0,120
+199,PHY10002,TH Vat ly co so,Nguyen Tien Dat,21KVL4,4,MON,S3,0,120
+200,PHY10010,Vat ly chat ran,Dang Quoc Viet,20KVL2,4,TUE,S4,0,120
+201,PHY10010,Vat ly chat ran,Nguyen Tien Dat,20KVL3,4,MON,S1,0,120
+202,PHY10010,Vat ly chat ran,Dang Quoc Viet,20KVL4,4,TUE,S2,0,120
+203,PHY10011,Vat ly thong ke,Phan Van Loc,20KVL2,4,WED,S3,0,120
+204,PHY10011,Vat ly thong ke,Huynh An Tuan,20KVL3,4,THUR,S4,0,120
+205,PHY10011,Vat ly thong ke,Nguyen Tien Dat,20KVL4,4,FRI,S1,0,120
+206,PHY10012,Vat ly nguyen tu,Dang Quoc Viet,20KVL2,4,MON,S2,0,120
+207,PHY10012,Vat ly nguyen tu,Phan Van Loc,20KVL3,4,TUE,S3,0,120
+208,PHY10012,Vat ly nguyen tu,Huynh An Tuan,20KVL4,4,WED,S4,0,120
+209,MPH10106,Sinh hoc buc xa,Nguyen Tien Dat,20KVL2,4,THUR,S1,0,120
+210,MPH10106,Sinh hoc buc xa,Dang Quoc Viet,20KVL3,4,FRI,S2,0,120
+211,MPH10106,Sinh hoc buc xa,Phan Van Loc,20KVL4,4,SAT,S3,0,120
+212,MPH10111,Thuc tap co so VL Y khoa,Huynh An Tuan,19KVL2,4,MON,S4,0,120
+213,MPH10111,Thuc tap co so VL Y khoa,Nguyen Tien Dat,19KVL3,4,TUE,S1,0,120
+214,MPH10111,Thuc tap co so VL Y khoa,Dang Quoc Viet,19KVL4,4,WED,S2,0,120
+215,MPH10112,Thuc tap chuyen de VL Y khoa,Phan Van Loc,19KVL2,4,THUR,S3,0,120
+216,MPH10112,Thuc tap chuyen de VL Y khoa,Huynh An Tuan,19KVL3,4,FRI,S4,0,120
+217,MPH10112,Thuc tap chuyen de VL Y khoa,Nguyen Tien Dat,19KVL4,4,SAT,S1,0,120
+218,MPH10113,Ung dung tin hoc trong KTHN,Dang Quoc Viet,19KVL2,4,MON,S2,0,120
+219,MPH10113,Ung dung tin hoc trong KTHN,Phan Van Loc,19KVL3,4,TUE,S3,0,120
+220,MPH10113,Ung dung tin hoc trong KTHN,Huynh An Tuan,19KVL4,4,MON,S4,0,120
