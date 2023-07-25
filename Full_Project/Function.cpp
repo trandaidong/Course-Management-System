@@ -2160,12 +2160,12 @@ void Menu2a(School* Sch, int& i_Sch, int& position) {
 	int x = 40, y = 9;
 	do {
 		BoxUsage(1, 0, 19, 5); gotoXY(45, 9);
-		cout << Sch[i_Sch].DAStudent.Member[position].StudentID << " - " << Sch[i_Sch].DAStudent.Member[position].FirstName << " " << Sch[i_Sch].DAStudent.Member[position].LastName << endl;	gotoXY(x, y++);
+		cout << Sch[0].DAStudent.Member[position].StudentID << " - " << Sch[0].DAStudent.Member[position].FirstName << " " << Sch[0].DAStudent.Member[position].LastName << endl;	gotoXY(x, y++);
 		MenuGraphic(45, 10, 30, 2, 1, 7, lc, n_Box3, Light3);
 		if (lc == 0)break;
 		switch (lc) {
 		case 1:
-			MenuProfile(Sch[i_Sch].DAStudent.Member[position]);
+			MenuProfile(Sch[0].DAStudent.Member[position]);
 			break;
 		case 2:
 			MenuRegister(Sch, i_Sch, position, TIME.year - 1);
@@ -2192,16 +2192,16 @@ void Menu1(School* Sch, int& i_Sch) {
 		switch (lc) {
 		case 1:
 			Account Acc1;
-			//if (SignIn(Acc1, Sch[i_Sch].DAStaff, n, true)) {
+			if (SignIn(Acc1, Sch[0].DAStaff, n, true)) {
 			Menu1a(Sch, i_Sch, n);
-			//}
+			}
 			break;
 		case 2:
 			BoxUsage(1, 0, 19, 3);
 			BoxNotification(42, 10, 30, 2, 1, 7, "Temporarily closed feature!", true);
 			break;
 		case 3:
-			ChangePassword(Sch[i_Sch].DAStaff);
+			ChangePassword(Sch[0].DAStaff);
 			break;
 		default:
 			break;
@@ -2220,7 +2220,7 @@ void Menu2(School* Sch, int& i_Sch) {
 		if (option == 0)break;
 		switch (option) {
 		case 1:
-			if (SignIn(Acc1, Sch[i_Sch].DAStudent, n, true)) {
+			if (SignIn(Acc1, Sch[0].DAStudent, n, true)) {
 				Menu2a(Sch, i_Sch, n);
 			}
 			break;
@@ -2229,7 +2229,7 @@ void Menu2(School* Sch, int& i_Sch) {
 			BoxNotification(42, 10, 30, 2, 1, 7, "Temporarily closed feature!", true);
 			break;
 		case 3:
-			ChangePassword(Sch[i_Sch].DAStudent);
+			ChangePassword(Sch[0].DAStudent);
 			break;
 		}
 	} while (true);
@@ -3394,7 +3394,7 @@ void BoxUsage(int x, int y, int w, int h) {
 	cout << "[ESC]   : EXIT";
 	gotoXY(x + 2, y + 4);
 	cout << "[ENTER] : SELECT";
-	gotoXY(x + 109, y); cout << TIME.day << "/" << TIME.month << "/" << TIME.year;
+	gotoXY(x + 107, y); cout << TIME.day << "/" << TIME.month << "/" << TIME.year;
 }
 void BoxUsage0(int x, int y, int w, int h) {
 	system("cls");
@@ -3420,7 +3420,7 @@ void BoxUsage0(int x, int y, int w, int h) {
 	cout << "[ENTER] : SELECT";
 	gotoXY(x + 2, y + 5);
 	cout << "[TAB]   : SETTING";
-	gotoXY(x + 109, y); cout << TIME.day << "/" << TIME.month << "/" << TIME.year;
+	gotoXY(x + 107, y); cout << TIME.day << "/" << TIME.month << "/" << TIME.year;
 }
 int BoxNotification(int x, int y, int w, int h, int b_color, int t_color, string s, bool flag) {
 	if (flag) {

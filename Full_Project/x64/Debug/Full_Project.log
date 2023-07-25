@@ -21,7 +21,6 @@ C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(745,39): warn
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(1432,6): warning C4101: 'option': unreferenced local variable
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(1433,7): warning C4101: 'flag': unreferenced local variable
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(1771,8): warning C4101: 'pathOfSource': unreferenced local variable
-C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(2194,12): warning C4101: 'Acc1': unreferenced local variable
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(2720,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(2724,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(2737,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
@@ -129,10 +128,6 @@ C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(4145,62): war
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(4149,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(5119,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(5119,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-  main.cpp
-C:\Users\trand\source\repos\Full_Project\Full_Project\lib.h(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
-C:\Users\trand\source\repos\Full_Project\Full_Project\lib.h(11,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
-  Generating Code...
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(36): warning C4715: 'maxDay': not all control paths return a value
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(272): warning C4715: 'SignIn': not all control paths return a value
 C:\Users\trand\source\repos\Full_Project\Full_Project\Function.cpp(931): warning C4715: 'getFaculty': not all control paths return a value
